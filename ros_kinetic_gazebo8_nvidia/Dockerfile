@@ -1,4 +1,4 @@
-FROM ros_kinetic_gazebo8:1.0
+FROM ros_kinetic_gazebo8:latest
 
 LABEL com.nvidia.volumes.needed="nvidia_driver"
 
